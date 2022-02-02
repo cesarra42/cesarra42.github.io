@@ -1,0 +1,10 @@
+#A{background-color:rgba(55, 162, 189, 0.281)}
+#B{background-color:rgba(137, 43, 226, 0.527)}
+#C{background-color:rgba(172, 255, 47, 0.548)}
+#A p{font-family:'Times New Roman', Times, serif}
+#A ul{font-family: Arial, Helvetica, sans-serif}
+#B p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+#B ol{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+#C p{font-family: 'Times New Roman', Times, serif}
+#C ul{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.imagenes-centradas{display: block; margin:auto}
