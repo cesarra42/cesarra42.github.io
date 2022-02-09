@@ -1,0 +1,12 @@
+body{font-family:Arial, Helvetica, sans-serif}
+#encabezado {text-align: center; margin: auto}
+#encabezado{background-color:rgb(0, 247, 255)}
+#encabezado{color:rgb(19, 19, 143)}
+#intro{background-color:blueviolet}
+#intro{color:azure}
+#test{font-family:'Courier New', Courier, monospace} 
+#test{background-color:rgb(0, 247, 255)}
+#test p{color: red}
+.impar{background-color:lightgray}
+.par{background-color: darkgray}
+.correcta{background-color:yellow; color: red }
