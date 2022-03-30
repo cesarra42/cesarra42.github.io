@@ -13,4 +13,6 @@ a{text-decoration:none;}
 #E h2{background-color: green}
 .boton:hover, boton:active {background-color: red; color: black;}
 #Z { background-color: lightblue}
-#f p{text-align: center;} h2{background-color:orange}
+#f p{text-align: center;} h2{background-color:orange} 
+#g p{text-align: center;}
+#g h2{background-color:#701b98}
