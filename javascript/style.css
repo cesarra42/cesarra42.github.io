@@ -1,0 +1,9 @@
+html, body {
+  height: 100%;
+  width: 100% 
+}
+body {background-color: yellowgreen;
+     font-family: arial;
+     }
+h1{background-color: green}
+H2{background-color: skyblue}
